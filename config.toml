@@ -1,0 +1,21 @@
+baseurl = "https://danielseymour.info"
+languageCode = "en-us"
+title = "Bits of Devops"
+theme = "hpstr"
+pluralizelisttitles = false
+PygmentsCodeFences = true
+Paginate = 5
+googleAnalytics = "UA-113147237-1"
+disqusShortname = "danielseymour"
+
+[params]
+    subtitle = "Musings of a devops engineer"
+    [params.author]
+	    name = "Daniel Seymour"
+        avatar = "/images/avatar.jpg"
+        bio = "Techy a with love of all things Linux"
+        github = "thefirstofthe300"
+		linkedin = "firstofth300"
+    [params.image]
+	  feature = "/images/pend-orielle-sunset.jpg"
+	  credit = "Melissa Pucket Bond"
